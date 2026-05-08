@@ -1,0 +1,30 @@
+# Ignore Python virtual environments
+comet-env/
+env_eval/
+requirements.txt
+mt-quality-eval/
+translate/translation_prompts/few_shot_flask/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+*.manifest
+*.spec
+
+# Logs
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
