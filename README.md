@@ -1,5 +1,5 @@
 <p align="center">
-    <h2 align="center"> Towards Reliable Multilingual Judge Models: An Empirical Study </h2>
+    <h2 align="center"> 📊 Towards Reliable Multilingual Judge Models: An Empirical Study </h2>
 
 
 <p align="center">
@@ -13,6 +13,8 @@
 </p>
 
 <p align="justify">
+
+This repository contains the code accompanying our paper, "Towards Reliable Multilingual Judge Models: An Empirical Study".
 
 In this work, we study how to build reliable multilingual LLM-as-a-Judge systems when evaluation data is only available in English, with experiments across English, Spanish, and Basque.
 
@@ -43,6 +45,19 @@ Code for running inference on benchmark datasets, computing evaluation metrics, 
 Fork and adaptation of Meta’s Llama cookbook used for model fine-tuning on feedback data. This directory retains the original licensing and attribution as provided by Meta. See the corresponding license files for details.
 
 ---
+## Datasets
+
+English data:
+
+- Train: [Feedback-Collection](https://huggingface.co/datasets/prometheus-eval/Feedback-Collection)
+- Test: [RECON](https://huggingface.co/datasets/ai4bharat/recon) and [FLASK](https://github.com/kaistAI/FLASK)
+
+Basque and Spanish Data:
+
+- Train: [es_eu-Feedback-Collection](https://huggingface.co/datasets/HiTZ/es_eu-Feedback-Collection)
+- Test: [es_eu-RECON](https://huggingface.co/datasets/HiTZ/es_eu-recon) and [es_eu-FLASK](https://huggingface.co/datasets/HiTZ/es_eu-flask)
+
+Please refer to the original dataset licenses before redistribution or commercial use.
 
 # Citation
 
