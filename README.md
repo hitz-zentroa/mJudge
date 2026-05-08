@@ -13,7 +13,6 @@
 </p>
 
 <p align="justify">
-
 This repository contains the code accompanying our paper, "Towards Reliable Multilingual Judge Models: An Empirical Study".
 
 In this work, we study how to build reliable multilingual LLM-as-a-Judge systems when evaluation data is only available in English, with experiments across English, Spanish, and Basque.
