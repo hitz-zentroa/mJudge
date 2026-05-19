@@ -3,7 +3,6 @@
 
 
 <p align="center">
-    <a href="https://github.com/hitz-zentroa/mJudge/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/hitz-zentroa/mJudge"></a>
     <a href="https://arxiv.org/abs/2406.15227"><img alt="Paper" src="https://img.shields.io/badge/📖-Paper-orange"></a>
 <br>
      <a href="http://www.hitz.eus/"><img src="https://img.shields.io/badge/HiTZ-Basque%20Center%20for%20Language%20Technology-blueviolet"></a>
