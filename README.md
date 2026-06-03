@@ -60,9 +60,13 @@ Please refer to the original dataset licenses before redistribution or commercia
 # Citation
 
 ```bibtex
-@inproceedings{,
-  title={Towards Reliable Multilingual Judge Models: An Empirical Study},
-  author={},
-  year={2026}
+@misc{zubiaga2026reliablemultilingualllmsasajudgeempirical,
+      title={Towards Reliable Multilingual LLMs-as-a-Judge: An Empirical Study}, 
+      author={Irune Zubiaga and Aitor Soroa and Rodrigo Agerri},
+      year={2026},
+      eprint={2605.28710},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2605.28710}, 
 }
 ```
